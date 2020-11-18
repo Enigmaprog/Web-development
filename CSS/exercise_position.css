@@ -1,0 +1,20 @@
+.blue-with-border {
+	background: green;
+	color: white;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	z-index: 2;
+	top: 100px;
+	left: 50px;
+}
+
+#second-paragraph {
+	background: brown;
+	color: yellow;
+	height: 100px;
+	width: 100px;
+	position: relative;
+	z-index: 1;
+	top: 100px;
+}
