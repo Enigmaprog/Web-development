@@ -1,0 +1,10 @@
+Primitive Data types
+Nubmer: 7, 13.8, -19
+String: "Hello Javascript", "13.8"
+Boolean: true, false
+Undefined - не определенно
+Null - не существующее значение
+-------------------------------------------------------
+Приоритет операторов
+
+DOM - Document Object Model - Обьектная модель документа
